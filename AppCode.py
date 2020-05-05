@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun May  3 11:23:22 2020
-
-@author: HP
+@author: berkomeratay
 """
 
 import kivy
